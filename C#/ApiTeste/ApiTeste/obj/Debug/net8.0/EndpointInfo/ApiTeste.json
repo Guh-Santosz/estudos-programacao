@@ -1,0 +1,34 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "ApiTeste",
+    "version": "1.0"
+  },
+  "paths": {
+    "/Receita/{imc}": {
+      "get": {
+        "tags": [
+          "Receita"
+        ],
+        "operationId": "GetReceita",
+        "parameters": [
+          {
+            "name": "imc",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "number",
+              "format": "double"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

@@ -1,0 +1,19 @@
+[
+  {
+    "ContainingType": "ApiTeste.Controllers.ReceitaController",
+    "Method": "Get",
+    "RelativePath": "Receita/{imc}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "imc",
+        "Type": "System.Double",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "GetReceita"
+  }
+]

@@ -1,0 +1,17 @@
+C:\Users\Pigmeuz\source\repos\Estudo C# Form\Estudo C# Form\obj\Debug\net8.0-windows\Estudo_C__Form.Form1.resources
+C:\Users\Pigmeuz\source\repos\Estudo C# Form\Estudo C# Form\obj\Debug\net8.0-windows\Estudo_C__Form.Properties.Resources.resources
+C:\Users\Pigmeuz\source\repos\Estudo C# Form\Estudo C# Form\obj\Debug\net8.0-windows\Estudo C# Form.csproj.GenerateResource.cache
+C:\Users\Pigmeuz\source\repos\Estudo C# Form\Estudo C# Form\obj\Debug\net8.0-windows\Estudo C# Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pigmeuz\source\repos\Estudo C# Form\Estudo C# Form\obj\Debug\net8.0-windows\Estudo C# Form.AssemblyInfoInputs.cache
+C:\Users\Pigmeuz\source\repos\Estudo C# Form\Estudo C# Form\obj\Debug\net8.0-windows\Estudo C# Form.AssemblyInfo.cs
+C:\Users\Pigmeuz\source\repos\Estudo C# Form\Estudo C# Form\obj\Debug\net8.0-windows\Estudo C# Form.csproj.CoreCompileInputs.cache
+C:\Users\Pigmeuz\source\repos\Estudo C# Form\Estudo C# Form\bin\Debug\net8.0-windows\Estudo C# Form.exe
+C:\Users\Pigmeuz\source\repos\Estudo C# Form\Estudo C# Form\bin\Debug\net8.0-windows\Estudo C# Form.deps.json
+C:\Users\Pigmeuz\source\repos\Estudo C# Form\Estudo C# Form\bin\Debug\net8.0-windows\Estudo C# Form.runtimeconfig.json
+C:\Users\Pigmeuz\source\repos\Estudo C# Form\Estudo C# Form\bin\Debug\net8.0-windows\Estudo C# Form.dll
+C:\Users\Pigmeuz\source\repos\Estudo C# Form\Estudo C# Form\bin\Debug\net8.0-windows\Estudo C# Form.pdb
+C:\Users\Pigmeuz\source\repos\Estudo C# Form\Estudo C# Form\obj\Debug\net8.0-windows\Estudo C# Form.dll
+C:\Users\Pigmeuz\source\repos\Estudo C# Form\Estudo C# Form\obj\Debug\net8.0-windows\refint\Estudo C# Form.dll
+C:\Users\Pigmeuz\source\repos\Estudo C# Form\Estudo C# Form\obj\Debug\net8.0-windows\Estudo C# Form.pdb
+C:\Users\Pigmeuz\source\repos\Estudo C# Form\Estudo C# Form\obj\Debug\net8.0-windows\Estudo C# Form.genruntimeconfig.cache
+C:\Users\Pigmeuz\source\repos\Estudo C# Form\Estudo C# Form\obj\Debug\net8.0-windows\ref\Estudo C# Form.dll

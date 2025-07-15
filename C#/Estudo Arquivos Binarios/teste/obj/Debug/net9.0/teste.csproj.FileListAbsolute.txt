@@ -1,0 +1,14 @@
+C:\Windows.old.000\Users\Lopes\Downloads\Programas Codados\C#\teste\bin\Debug\net9.0\teste.exe
+C:\Windows.old.000\Users\Lopes\Downloads\Programas Codados\C#\teste\bin\Debug\net9.0\teste.deps.json
+C:\Windows.old.000\Users\Lopes\Downloads\Programas Codados\C#\teste\bin\Debug\net9.0\teste.runtimeconfig.json
+C:\Windows.old.000\Users\Lopes\Downloads\Programas Codados\C#\teste\bin\Debug\net9.0\teste.dll
+C:\Windows.old.000\Users\Lopes\Downloads\Programas Codados\C#\teste\bin\Debug\net9.0\teste.pdb
+C:\Windows.old.000\Users\Lopes\Downloads\Programas Codados\C#\teste\obj\Debug\net9.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows.old.000\Users\Lopes\Downloads\Programas Codados\C#\teste\obj\Debug\net9.0\teste.AssemblyInfoInputs.cache
+C:\Windows.old.000\Users\Lopes\Downloads\Programas Codados\C#\teste\obj\Debug\net9.0\teste.AssemblyInfo.cs
+C:\Windows.old.000\Users\Lopes\Downloads\Programas Codados\C#\teste\obj\Debug\net9.0\teste.csproj.CoreCompileInputs.cache
+C:\Windows.old.000\Users\Lopes\Downloads\Programas Codados\C#\teste\obj\Debug\net9.0\teste.dll
+C:\Windows.old.000\Users\Lopes\Downloads\Programas Codados\C#\teste\obj\Debug\net9.0\refint\teste.dll
+C:\Windows.old.000\Users\Lopes\Downloads\Programas Codados\C#\teste\obj\Debug\net9.0\teste.pdb
+C:\Windows.old.000\Users\Lopes\Downloads\Programas Codados\C#\teste\obj\Debug\net9.0\teste.genruntimeconfig.cache
+C:\Windows.old.000\Users\Lopes\Downloads\Programas Codados\C#\teste\obj\Debug\net9.0\ref\teste.dll
