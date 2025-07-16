@@ -13,7 +13,7 @@ Esta pasta reúne implementações clássicas de estruturas de dados feitas em C
 | `estudo-pilha.c`     | Implementa uma pilha com operações de empilhar (`push`), desempilhar (`pop`) e exibir(`top`). Usando o conceito LIFO. | [✅] Completo |
 | `exercicio-hash.c`       | Exercício de espalhamento que simula classes de armas em um jogo. É utilizado função hash e pilhas para a separação das classes.| [✅] Completo |
 | `exercicios-estruturas.c`    | Exercício de criação de pilha e fila, desmontar os valores da pilha e passar para a fila. | [ ] Precisa de ajustes 🕗 |
-| `fila.c`    | Projeto maior que une diversas estruturas (pilha, fila, listas, árvores) com menu interativo. | [✅] Completo |
+| `fila.c`    | Implementa fila seguindo o conceito de FIFO, com inserção, remoção e exibição. | [✅] Completo |
 
 ---
 
