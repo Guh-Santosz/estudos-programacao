@@ -3,6 +3,8 @@
 Este diretório contém exercícios, projetos e implementações desenvolvidas em linguagem C, organizados por tipo de conteúdo. Os códigos foram 
 elaborados em diferentes dases de meu aprendizado, sendo uns mais organizados e complexos que outros.
 
+>Obs: ⚠ Os códigos foram pensados para rodar em ambiente Windows.
+
 Os arquivos estão separados da seguinte maneira:
 
 ---
