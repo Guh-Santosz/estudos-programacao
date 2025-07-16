@@ -12,7 +12,7 @@ Os arquivos estão separados da seguinte maneira:
 
 A pasta contém alguns projetos simples com utilização do PyQt como GUI.
 
-📁 [Ver Pasta](./Pyqt)
+📁 [Ver Pasta](./PyQt)
 
 ---
 
