@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Temperatura.css">
+    <title>Conversor</title>
+</head>
+<body>
+    <header>
+        <div id="foto1" class="fotus"> 
+            <img  id="calor" src="https://imgs.search.brave.com/WG92_GWeBSEWxrj148W0-RIWCqdh6ZClEQJp4HVtxhc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/MC5lbW9qaXMud2lr/aS9lbW9qaS1waWNz/L2dvb2dsZS9zdW4t/Z29vZ2xlLnBuZw" alt="Imagem do sol" height="120px">
+        </div>
+        <div id="foto2" class="fotus"> 
+            <img id="frio" src="https://imgs.search.brave.com/C8bkkTYTqYPxPlYtNs2nRVmSmo5RL148YZbljN7_s7s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZW1vamlhbGwuY29t/L2VuL2hlYWRlci1z/dmcvJUUyJTlEJTg0/JUVGJUI4JThFLnN2/Zw" alt="Imagem de neve" height="120px">
+        </div>
+    </header>
+    <main>
+        <div id="container">
+
+            <div class="corpo">
+
+                <div class="coisas">
+                    <h1 id="resultado">0</h1>
+                
+                    <br>
+                    <input id="selecionar" type="number" placeholder="Digite a temperatura" max="999999" min="-999999">
+                    <br>
+                    <br>
+                        <input type="radio" id="Cel" name="Temperatura" value="cpf">
+                        <label for="Cel">Celsius ➞ Farenheint</label>
+                        <br>
+                        <input type="radio" id="Far" name="Temperatura" value="fpc">
+                        <label for="Far">Farenheint ➞ Celsius</label>
+                    <br>
+                    <br>
+                    <br>    
+                    <br>
+                <button id="converter">Converter</button>
+
+                </div>
+            </div>
+
+        </div>
+    </main>
+
+    <script src="Temperatura.js"></script>
+</body>
+</html>

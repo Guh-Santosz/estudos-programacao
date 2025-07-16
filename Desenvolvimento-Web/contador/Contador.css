@@ -1,0 +1,24 @@
+#contagem
+{
+    font-family: Helvetica;
+    text-align: center;
+    font-size: 5em;
+}
+.botoes
+{
+    text-align: center;
+}
+.botoes button
+{
+    cursor: pointer;
+    color: white;
+    background-color: rgb(97, 162, 247);
+    border: none;
+    padding: 10px;
+    width: 80px;
+    border-radius: 5px;
+}
+.botoes button:hover
+{
+    background-color: rgb(38, 104, 190);
+}

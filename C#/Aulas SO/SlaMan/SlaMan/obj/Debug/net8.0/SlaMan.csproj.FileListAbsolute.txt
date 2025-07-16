@@ -1,0 +1,14 @@
+C:\Users\0040482412026\source\repos\SlaMan\SlaMan\bin\Debug\net8.0\SlaMan.exe
+C:\Users\0040482412026\source\repos\SlaMan\SlaMan\bin\Debug\net8.0\SlaMan.deps.json
+C:\Users\0040482412026\source\repos\SlaMan\SlaMan\bin\Debug\net8.0\SlaMan.runtimeconfig.json
+C:\Users\0040482412026\source\repos\SlaMan\SlaMan\bin\Debug\net8.0\SlaMan.dll
+C:\Users\0040482412026\source\repos\SlaMan\SlaMan\bin\Debug\net8.0\SlaMan.pdb
+C:\Users\0040482412026\source\repos\SlaMan\SlaMan\obj\Debug\net8.0\SlaMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0040482412026\source\repos\SlaMan\SlaMan\obj\Debug\net8.0\SlaMan.AssemblyInfoInputs.cache
+C:\Users\0040482412026\source\repos\SlaMan\SlaMan\obj\Debug\net8.0\SlaMan.AssemblyInfo.cs
+C:\Users\0040482412026\source\repos\SlaMan\SlaMan\obj\Debug\net8.0\SlaMan.csproj.CoreCompileInputs.cache
+C:\Users\0040482412026\source\repos\SlaMan\SlaMan\obj\Debug\net8.0\SlaMan.dll
+C:\Users\0040482412026\source\repos\SlaMan\SlaMan\obj\Debug\net8.0\refint\SlaMan.dll
+C:\Users\0040482412026\source\repos\SlaMan\SlaMan\obj\Debug\net8.0\SlaMan.pdb
+C:\Users\0040482412026\source\repos\SlaMan\SlaMan\obj\Debug\net8.0\SlaMan.genruntimeconfig.cache
+C:\Users\0040482412026\source\repos\SlaMan\SlaMan\obj\Debug\net8.0\ref\SlaMan.dll

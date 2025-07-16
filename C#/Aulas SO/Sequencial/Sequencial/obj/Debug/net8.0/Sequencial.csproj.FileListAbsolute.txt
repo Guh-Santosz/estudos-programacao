@@ -1,0 +1,14 @@
+C:\Users\0040482412026\source\repos\Sequencial\Sequencial\bin\Debug\net8.0\Sequencial.exe
+C:\Users\0040482412026\source\repos\Sequencial\Sequencial\bin\Debug\net8.0\Sequencial.deps.json
+C:\Users\0040482412026\source\repos\Sequencial\Sequencial\bin\Debug\net8.0\Sequencial.runtimeconfig.json
+C:\Users\0040482412026\source\repos\Sequencial\Sequencial\bin\Debug\net8.0\Sequencial.dll
+C:\Users\0040482412026\source\repos\Sequencial\Sequencial\bin\Debug\net8.0\Sequencial.pdb
+C:\Users\0040482412026\source\repos\Sequencial\Sequencial\obj\Debug\net8.0\Sequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0040482412026\source\repos\Sequencial\Sequencial\obj\Debug\net8.0\Sequencial.AssemblyInfoInputs.cache
+C:\Users\0040482412026\source\repos\Sequencial\Sequencial\obj\Debug\net8.0\Sequencial.AssemblyInfo.cs
+C:\Users\0040482412026\source\repos\Sequencial\Sequencial\obj\Debug\net8.0\Sequencial.csproj.CoreCompileInputs.cache
+C:\Users\0040482412026\source\repos\Sequencial\Sequencial\obj\Debug\net8.0\Sequencial.dll
+C:\Users\0040482412026\source\repos\Sequencial\Sequencial\obj\Debug\net8.0\refint\Sequencial.dll
+C:\Users\0040482412026\source\repos\Sequencial\Sequencial\obj\Debug\net8.0\Sequencial.pdb
+C:\Users\0040482412026\source\repos\Sequencial\Sequencial\obj\Debug\net8.0\Sequencial.genruntimeconfig.cache
+C:\Users\0040482412026\source\repos\Sequencial\Sequencial\obj\Debug\net8.0\ref\Sequencial.dll

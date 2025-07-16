@@ -1,0 +1,114 @@
+body
+{
+    margin: 0px;
+    box-sizing: border-box;
+    background-color: rgb(241, 241, 241);
+}
+.fotus
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    align-items: center;
+    padding: 20px;
+}
+#foto1
+{
+    display: none;
+}
+#foto2
+{
+    display: none;
+}
+#calor
+{
+    display: none;
+}
+#frio
+{
+    display: none;
+}
+#container
+{
+    height: 643px;
+    /*Para as imagens: 350px
+    Sem as imagens: 643px*/
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#resultado
+{
+    color:#8400ff;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    height: 70px;
+    margin: 0px;
+    font-family: sans-serif;
+    font-size: 3em;
+}
+#container .corpo
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    height: 310px;
+    width: 330px;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 6px rgb(112, 111, 111);
+}
+.corpo .coisas
+{
+    text-align: center;
+}
+#selecionar
+{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 15px;
+    width: 230px;
+    padding: 13px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    background-color: rgb(236, 235, 235);
+}
+.corpo label
+{
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.corpo button
+{
+    padding: 10px;
+    border: none;
+    color: white;
+    background-color: #8400ff;
+    border-radius: 10px;
+    width: 252px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.corpo label:hover
+{
+    cursor: pointer;
+}
+.corpo button:hover
+{
+    cursor: pointer;
+    background-color: #5500a5;
+}
+#Cel:hover
+{
+    cursor: pointer;
+}
+#Far:hover
+{
+    cursor: pointer;
+}

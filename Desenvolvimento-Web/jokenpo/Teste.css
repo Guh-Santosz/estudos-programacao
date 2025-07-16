@@ -1,0 +1,156 @@
+body
+{
+    margin: 0px;
+    box-sizing: border-box;
+    background-color: rgb(20, 19, 19);
+}
+h1
+{
+    margin: 0px;
+    margin-top: 30px;
+    margin-bottom: 55px;
+    background: linear-gradient(to right, rgb(255, 0, 43) 35%, blue 65%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    font-size: 3em;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p
+{
+    font-size: 1.5em;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    animation: inicio 2s;
+}
+@keyframes inicio 
+{
+    0%
+    {
+        transform: translateY(13px);
+        opacity: 0%;
+    }    
+}
+.container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+}
+.fotos
+{
+    padding: 1px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    height: 170px;
+    width: 170px;
+    margin: 50px;
+    border:none;
+    border-radius: 15px;
+    animation: inicio 1.5s;
+    text-align: center;
+    transition: transform 0.3s ease, background-color 0.5s ease;
+}
+.icones
+{
+    position: relative;
+    top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 80px;
+    height: 170px;
+    width: 170px;
+    transition: opacity 0.3s ease;
+}
+.fotos:hover
+{
+    background-color: rgb(160, 159, 159);
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.icones:hover
+{
+    opacity: 50%;
+}
+hr
+{
+    margin: 0px;
+    background-color: white;
+    height: 5px;
+    border: none;
+}
+.mensagem
+{
+    animation: aparecer 0.7s;
+    position:absolute;
+    width: 750px;
+    height: 560px;
+    background-color: rgb(255, 255, 255);
+    display: block;
+    border-radius: 25px;
+    outline: rgb(0, 0, 0) ridge 0.5px;
+    outline-offset: -15px;
+    display: none;
+}
+.mensagem button
+{
+    font-family: sans-serif;
+    position: relative;
+    left: 698px;
+    top: 30px;
+    border-radius: 25px;
+    border: none;
+    transform: scale(1.5);
+    color: white;
+    background-color: purple;
+}
+.mensagem button:hover
+{
+    background-color: rgb(90, 2, 90);
+    color: rgb(184, 184, 184);
+    cursor: pointer;
+}
+@keyframes aparecer
+{
+    0%
+    {
+        opacity: 0%;
+        transform: scale(0.6);
+    }
+}
+.sair
+{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+}
+.resultado 
+{
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+    justify-content: space-around;
+    height: 300px; 
+}
+.maquina
+{
+    align-content: center;
+    height: 220px;
+    width: 220px;
+}
+.jogador
+{
+    text-align: center;
+    height: 220px;
+    width: 220px;
+}
+.resultado h1
+{
+    font-size: 6em;
+}

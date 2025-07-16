@@ -1,0 +1,65 @@
+body
+{
+    margin: 0px;
+    background-image: url("Fotos2/fundo.png");
+    background-size: cover;
+}
+#botão
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    border: none;
+    padding: 15px;
+    width: 200px;
+    border-radius: 15px;
+    background-color: rgb(192, 20, 20);
+    color: rgb(255, 255, 255);
+}
+#container button:hover
+{
+    cursor: pointer;
+    background-color: rgb(139, 17, 17);
+}
+#nome
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    margin-top: 10px;
+    outline: none;
+    text-align: center;
+    padding: 15px;
+    border-radius: 20px;
+    border: none;
+    width: 260px;
+}
+#container
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 645px;
+}
+#main
+{
+    width: 940px;
+    height: 420px;
+    background-color: rgb(192, 20, 20);
+    border-radius: 35px;
+    display: flex;
+    align-items: center;
+}
+#pesquisar
+{
+    background-color: rgb(221, 221, 221);
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 120px;
+    padding: 25px;
+    width: 350px;
+    height: 170px;
+}
+#imagem
+{
+    margin-left: 85px;
+}
