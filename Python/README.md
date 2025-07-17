@@ -26,8 +26,7 @@ Exercícios de lógica, e funções básicas da linguagem. Quando estava no come
 
 ## 📝 Sobre este repositório
 
-Este repositório é parte do meu processo de aprendizado e prática contínua em programação.  
-Todos os códigos foram feitos durante estudos ou desafios pessoais.
+Este repositório é parte do meu processo de aprendizado e prática contínua em programação.Todos os códigos foram feitos durante estudos ou desafios pessoais.
 
 📌 Repositório principal: [`estudos-e-atividades`](https://github.com/Guh-Santosz/estudos-e-atividades)
 
