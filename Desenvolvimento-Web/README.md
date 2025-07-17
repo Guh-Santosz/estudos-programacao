@@ -78,11 +78,7 @@ O site consulta uma api através do nome do pokémon fornecido pelo usuário, e 
 
 📁 [Ver pasta](./pokemon-api)
 
-<h4>🎯 O que precisa ser atualizado</h4>
-
-|    Descrição            | Status       |
-|-------------------------|--------------|
-| Arruamar a imagem de fundo no background | 🕗 a fazer |
+<h4>✅ Projeto concluído</h4>
 
 ---
 
