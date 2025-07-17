@@ -12,7 +12,7 @@ Os arquivos estão separados da seguinte maneira:
 
 A pasta contém arquivos de algumas aulas de SO que tive, utilizávamos C# para observar e entender o funcionamento do sistema operacional.
 
-📁 [Ver Pasta]("./aulas-SO")
+📁 [Ver Pasta](./aulas-SO)
 
 ---
 
