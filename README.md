@@ -13,7 +13,7 @@ Os estudos estão separados por pastas, cada uma contendo códigos e projetos fe
 | Linguagem / Tecnologia | Descrição |
 |------------------------|-----------|
 | 🐍 **Python**          | Scripts, exercícios e pequenos projetos, como calculadoras e manipuladores de listas. |
-| ☕ **Java**             | Programas com estruturas condicionais, loops, funções, vetores/matrizes, POO simples. |
+| ☕ **Java**             | Programas com estruturas condicionais, loops, funções e vetores/matrizes. |
 | 🖥️ **C**               | Códigos base com lógica de programação, manipulação de arquivos e estruturas de dados. |
 | 💻 **C#**              | Aplicações com orientação a objetos, menus interativos e persistência básica. |
 | 🌐 **Desenvolvimento Web** | HTML, CSS e JavaScript para práticas de front-end e interações básicas. |
