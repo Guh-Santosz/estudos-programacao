@@ -67,6 +67,10 @@ document.getElementById("converter").onclick = function()
     {
         window.alert("Digite um número válido");
     }
+    else if(!faren.checked && !celci.checked)
+    {
+        window.alert("Selecione uma temperatura");
+    }
     else if(valor < 999999 && valor > -999999)
     {
         valor = Number(valor);
