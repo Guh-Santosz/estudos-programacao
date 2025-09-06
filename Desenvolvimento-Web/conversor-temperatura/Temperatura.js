@@ -37,7 +37,6 @@ function imagem(tomi, aii)
             foto2.style.display = "Flex";
         }
     }
-
 }
 
 function converter(receba)
@@ -66,6 +65,10 @@ document.getElementById("converter").onclick = function()
     if(valor == "")
     {
         window.alert("Digite um número válido");
+    }
+    else if(!faren.checked && !celci.checked)
+    {
+        window.alert("Selecione uma temperatura");
     }
     else if(valor < 999999 && valor > -999999)
     {
