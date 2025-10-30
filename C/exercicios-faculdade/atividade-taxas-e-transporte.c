@@ -8,7 +8,7 @@ int main()
     char transporte, escolha;
     float preco, valor_unitario, valor_transporte, seguro;
 
-        printf("\n         ----'Sisteminha do Balacubaco' ----\n\n\n");
+        printf("\n\t----'Atividade' ----\n\n\n");
 
         printf("    -> Digite a quantidade de produtos: ");
         scanf("%d", &quantidade);
@@ -17,7 +17,7 @@ int main()
 
         if(quantidade < 1)
         {
-            printf("\n\n    -> A empresa declarou falencia :)\n\n\n");
+            printf("\n\n-> Digite um numero valido de produtos!\n");
 
             return 0;
         }
