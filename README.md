@@ -1,4 +1,4 @@
-# 📚 Estudos e Atividades
+# Estudos e Atividades
 
 Este repositório contém exercícios, projetos simples, atividades de aula e experimentos práticos que desenvolvi durante meus estudos em programação e minha formação acadêmica.
 
@@ -6,7 +6,7 @@ Este repositório contém exercícios, projetos simples, atividades de aula e ex
 
 ---
 
-## 🔢 Linguagens e Tecnologias
+## Linguagens e Tecnologias
 
 Os estudos estão separados por pastas, cada uma contendo códigos e projetos feitos em diferentes linguagens ou tecnologias:
 
