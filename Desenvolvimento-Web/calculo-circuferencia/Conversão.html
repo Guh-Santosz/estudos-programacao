@@ -3,16 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Conversão.css">
     <title>Conversão</title>
 </head>
 <body>
-    <h1>Digite o raio de um circulo</h1>
-    <label for="digite">Digite:</label>
-    <input id="digite" placeholder="Digite aqui">
-    <button id="enviar">Enviar</button>
-    <button id="resetar">Resetar</button>
-
-    <h3 id="resposta"></h3>
+    <div class="margin-top-50px">
+        <h1 id="resposta" style="border:0px; text-align: center;">Calculo de Circunferência</h1>
+        <div class="container">
+            <div class="box">
+            <label for="digite">Digite o raio:</label>
+            <input type="number" id="digite" placeholder="Digite o raio do círculo">
+            <button id="enviar">Enviar</button>
+            <button id="resetar">Resetar</button>
+        </div>
+        </div>
+    </div>
     <script src="Conversão.js"></script>
 </body>
 </html>

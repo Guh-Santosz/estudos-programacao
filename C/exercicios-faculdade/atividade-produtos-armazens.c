@@ -38,7 +38,7 @@ int main()
 
             for(int j = 0; j < armazem; j++)
             {
-                printf("|Digite o custo do produto %s na armazem %d: R$ ", nome_produtos[i], j + 1);
+                printf("|Digite o custo do produto %s no armazem %d: R$ ", nome_produtos[i], j + 1);
                 scanf("%f", &custos[i][j]);
                 fflush(stdin);
 
@@ -66,7 +66,7 @@ int main()
 
         system("cls");
 
-        printf("                    ----'JUIZO FINAL'----\n\n");
+        printf("\t----'RELATÓRIO FINAL'----\n\n");
 
         printf("Conclui-se que: \n");
 

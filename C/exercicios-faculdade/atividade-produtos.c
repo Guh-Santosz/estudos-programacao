@@ -5,7 +5,7 @@
 
 char estoque(char a[])
 {
-    char produtos_em_estoque[6][99] = {"BORRACHA", "OLEO", "MATERIA PRIMA", "FITA ADESIVA", "COCA COLA", "GUSTAVO DELICIA"};
+    char produtos_em_estoque[6][99] = {"BORRACHA", "OLEO", "MATERIA PRIMA", "FITA ADESIVA", "COCA COLA", "LINHA"};
     int quantidade[6] = {51, 2, 78, 10, 22, 1}, qntd;
     bool receba = false;
 

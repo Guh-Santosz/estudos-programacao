@@ -7,14 +7,14 @@ int main()
     int quantidade, i, l, total_pecas = 0, quantidade_homens = 0, quantidade_muie = 0;
     bool sexo;
 
-    printf("\n                      ---- 'SISTEMINHA DO BALACUBACO' ----     \n\n\n");
+    printf("\n\t---- 'ATIVIDADE DE AULA' ----\n\n");
 
         printf(" -> Digite a quantidade de operarios do mes: ");
         scanf("%d", &quantidade);
 
         if(quantidade <= 1)
         {
-            printf("\n\n        |Parabens amigo, a empresa ta falida :)\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
+            printf("\n|Digite um numero valido de operarios!\n");
 
             return 0;
         }
@@ -101,7 +101,7 @@ int main()
             }
 
 
-            printf("\n                         ---- 'RELATORIO FINAL' ----     \n\n");
+            printf("\n\t---- 'RELATORIO FINAL' ----     \n\n");
 
 
             for(l = 0; l < quantidade; l++)

@@ -12,12 +12,7 @@ O objetivo do site é fazer o cálcula da circunferência de um circulo através
 
 📁 [Ver Pasta](./calculo-circunferencia)
 
-<h4>🎯 O que precisa ser atualizado</h4>
-
-|    Descrição            | Status       |
-|-------------------------|--------------|
-| Fazer o CSS do projeto  |  🕗 a fazer |
-| Validar entrada do usuário |  🕗 a fazer |
+<h4>✅ Projeto concluído</h4>
 
 ---
 
@@ -37,12 +32,7 @@ O projeto tem como objetivo a conversão de Celsius para Farenheint e de Farenhe
 
 📁 [Ver pasta](./conversor-temperatura)
 
-
-<h4>🎯 O que precisa ser atualizado</h4>
-
-|    Descrição            | Status       |
-|-------------------------|--------------|
-| Fazer validação dos botões selecionados|  🕗 a fazer |
+<h4>✅ Projeto concluído</h4>
 
 ---
 

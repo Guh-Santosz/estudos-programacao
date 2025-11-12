@@ -1,29 +1,18 @@
-const pi = 3.14159;
-let raio;
-let cicrunf;
+const resposta = document.getElementById("resposta");
+const raio = document.getElementById("digite");
 
 document.getElementById("enviar").onclick = function()
 {
-    raio = document.getElementById("digite").value;
-
-    if(raio == "")
-    {
-        window.alert("Digite um raio");
-    }
+    if(raio.value == "") resposta.innerHTML = "Digite um raio válido!";
     else
     {
-        raio = Number(raio);
-        cicrunf = 2 * pi * raio;
-        document.getElementById("resposta").textContent = `A circunferência do circulo é de: ${cicrunf} cm`
+        let raioNumber = Number(raio.value);
+        let cicrunf = 2 * Math.PI * raioNumber;
+        document.getElementById("resposta").textContent = `Circunferencia: ${cicrunf.toFixed(2)}`;
     }
 }
 document.getElementById("resetar").onclick = function()
 {
-    document.getElementById("digite").value = "";
-    document.getElementById("resposta").textContent = ``;
+    raio.value = "";
+    resposta.innerHTML = "Calculo de Circunferência";
 }
-
-
-
-/*Const não deixa o valor ser mudado
-Number converte a variável de string para número*/
