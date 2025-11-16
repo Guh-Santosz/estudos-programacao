@@ -1,4 +1,4 @@
-# 💻 Estudos em Linguagem C
+# Estudos em Linguagem C
 
 Este diretório contém exercícios, projetos e implementações desenvolvidas em linguagem C, organizados por tipo de conteúdo. Os códigos foram 
 elaborados em diferentes dases de meu aprendizado, sendo uns mais organizados e complexos que outros.
@@ -9,7 +9,7 @@ Os arquivos estão separados da seguinte maneira:
 
 ---
 
-## 🧠 Estruturas de Dados
+## Estruturas de Dados
 
 A pasta contém implementações clássicas como pilha, fila, árvores e listas, assim como operações de CRUD.
 
@@ -17,7 +17,7 @@ A pasta contém implementações clássicas como pilha, fila, árvores e listas,
 
 ---
 
-## 📚 Conteúdo de Aulas
+## Conteúdo de Aulas
 
 Códigos, exercícios e desafios simples criados durante minhas aulas de ADS para demonstrar conceitos básicos da linguagem C.
 
@@ -25,7 +25,7 @@ Códigos, exercícios e desafios simples criados durante minhas aulas de ADS par
 
 ---
 
-## 🧪 Projetos Simples
+## Projetos Simples
 
 Miniaplicações feitas como prática de lógica e estrutura básica de programas em C.
 
@@ -33,11 +33,11 @@ Miniaplicações feitas como prática de lógica e estrutura básica de programa
 
 ---
 
-## 📝 Sobre este repositório
+## Sobre este repositório
 
 Este repositório é parte do meu processo de aprendizado e prática contínua em programação.  
 Todos os códigos foram feitos durante estudos, atividades de aula ou desafios pessoais.
 
-📌 Repositório principal: [`estudos-e-atividades`](https://github.com/Guh-Santosz/estudos-e-atividades)
+Repositório principal: [`estudos-e-atividades`](https://github.com/Guh-Santosz/estudos-e-atividades)
 
 ---
